@@ -1,5 +1,5 @@
 # SQSSendAndReceiveMessagePython
-Using Python API to send and receive messages from AWS SQS. 
+Using Python Boto3 API SDK to send and receive messages from AWS SQS. 
 
 SQS in AWS forms an integral part of Event Driven Architecture. 
 
@@ -11,10 +11,13 @@ SQS is one of the most earliest service provided by AWS.
 This project details utilisation of SQS messaging service in AWS Environment. 
 
 # Usage -
-# SendMessage - python SQSSendAndReceiveMessage.py 1 0 "Hello world" "test" "1"
-# ReceiveMessage - python SQSSendAndReceiveMessage.py 0 1
-# Send and ReceiveMessage  - python SQSSendAndReceiveMessage.py 1 1
-# Additionaly, testCode has also been updated for the same. 
+SendMessage - python SQSSendAndReceiveMessage.py 1 0 "Hello world" "test" "1"
+
+ReceiveMessage - python SQSSendAndReceiveMessage.py 0 1
+
+Send and ReceiveMessage  - python SQSSendAndReceiveMessage.py 1 1
+
+Additionaly, testCode has also been updated for the same. 
 
 Note - 
 
