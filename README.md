@@ -6,7 +6,7 @@ SQS in AWS forms an integral part of Event Driven Architecture.
 SQS according to Wikipedia - 
 Amazon Simple Queue Service is a distributed message queuing service introduced by Amazon.com in late 2004. It supports programmatic sending of messages via web service applications as a way to communicate over the Internet.
 
-SQS is one of the most earliest service provided by AWS. 
+SQS is one of the earliest service provided by AWS. 
 
 This project details utilisation of SQS messaging service in AWS Environment. 
 
